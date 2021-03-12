@@ -1,2 +1,2 @@
 # CourseProjects
- Projetos realizados em cursos e bootcamps
+ Projetos realizados em cursos e bootcamps!
